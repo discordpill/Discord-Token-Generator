@@ -7,7 +7,7 @@ Discord Token Generator with hcaptcha Bypass + Email + Phone = 250 Stars
 
 Features:
 
-**Discord Contact**: Benz#1131
+**Discord Contact**: Benz#7274
 Lifetime Access 200$
 Monthly Access: 100$
 
