@@ -1,6 +1,4 @@
-# MADE BY PR0T0N!!! Working on adding AI Solver 
-# Telegram link: https://t.me/+Tvbz-xGh_5pjYzVh
-# New Discord Server: https://discord.gg/FSqsR2HEJR
+# New Discord Server: https://anonix.xyz/discord
 from utils import TokenUtils
 import colorama
 from colorama import init, Fore
