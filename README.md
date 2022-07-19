@@ -1,11 +1,10 @@
 # Discord-Token-Generator
 hcaptcha bypass &amp; email verification
 
-Discord Token Generator with hcaptcha Bypass = 100 Stars
-
-Discord Token Generator with hcaptcha Bypass + Email + Phone = 250 Stars
+If this reaches 100 stars, i am going to continue this project.
 
 Features:
+Proxy & email with new captcha service that is cheap and fast.
 
 **Discord Contact**: Benz#7274
 Lifetime Access 200$
