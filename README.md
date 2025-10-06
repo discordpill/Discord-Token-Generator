@@ -8,7 +8,7 @@ If this reaches 100 stars, i am going to continue this project.
 Features:
 Proxy & email with new captcha service that is cheap and fast.
 
-**Discord Contact**: benandreas9010
+**Discord Contact**: brother8x
 Lifetime Access: 100$
 Updates every 3 days.
 
